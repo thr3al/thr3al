@@ -37,5 +37,3 @@ I recently architected a production-grade "Private Cloud" environment simulating
 
 ---
 
-### 📈 GitHub Stats
-![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=thr3al&show_icons=true&theme=radical&hide_border=true)
