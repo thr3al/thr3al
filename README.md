@@ -35,5 +35,4 @@ I recently architected a production-grade "Private Cloud" environment simulating
 ![Traefik](https://img.shields.io/badge/Traefik-24a1c1?style=for-the-badge&logo=traefik&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
----
 
